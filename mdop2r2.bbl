@@ -1,0 +1,398 @@
+\begin{thebibliography}{62}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ahuja et~al.(1993)Ahuja, Magnanti, and Orlin]{Ahuja:1993:NFT:137406}
+Ravindra~K. Ahuja, Thomas~L. Magnanti, and James~B. Orlin.
+\newblock \emph{Network Flows: Theory, Algorithms, and Applications}.
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 1993.
+\newblock ISBN 0-13-617549-X.
+
+\bibitem[Allard et~al.(2012)Allard, Chen, and Maggioni]{CM:MGM2}
+William~K. Allard, Guangliang Chen, and Mauro Maggioni.
+\newblock Multi-scale geometric methods for data sets {II}: Geometric
+  multi-resolution analysis.
+\newblock \emph{Applied and Computational Harmonic Analysis}, 32\penalty0
+  (3):\penalty0 435--462, 2012.
+\newblock ISSN 1063-5203.
+\newblock \doi{10.1016/j.acha.2011.08.001}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1063520311000868}.
+\newblock (submitted:5/2011).
+
+\bibitem[Andersen and Andersen(2013)]{mosek}
+Erling~D. Andersen and Knud~D. Andersen.
+\newblock {The MOSEK optimization software}.
+\newblock http://www.mosek.com/, 2013.
+
+\bibitem[Andoni et~al.(2008)Andoni, Indyk, and Krauthgamer]{andoni:soda2008}
+Alexandr Andoni, Piotr Indyk, and Robert Krauthgamer.
+\newblock Earth mover distance over high-dimensional spaces.
+\newblock In \emph{Proceedings of the nineteenth annual ACM-SIAM symposium on
+  Discrete algorithms}, pages 343--352. Society for Industrial and Applied
+  Mathematics, 2008.
+
+\bibitem[Angenent et~al.(2003)Angenent, Haker, and
+  Tannenbaum]{angenent:jma2003}
+Sigurd Angenent, Steven Haker, and Allen Tannenbaum.
+\newblock Minimizing flows for the monge--kantorovich problem.
+\newblock \emph{SIAM journal on mathematical analysis}, 35\penalty0
+  (1):\penalty0 61--97, 2003.
+
+\bibitem[Assouad(1983)]{assouad1983plongements}
+Patrice Assouad.
+\newblock Plongements lipschitziens dans $\mathbf{R}^p$.
+\newblock \emph{Bulletin de la Soci{\'e}t{\'e} Math{\'e}matique de France},
+  111:\penalty0 429--448, 1983.
+
+\bibitem[Aurenhammer et~al.(1998)Aurenhammer, Hoffmann, and
+  Aronov]{aurenhammer:algorithmica1998}
+Franz Aurenhammer, Friedrich Hoffmann, and Boris Aronov.
+\newblock Minkowski-type theorems and least-squares clustering.
+\newblock \emph{Algorithmica}, 20\penalty0 (1):\penalty0 61--76, 1998.
+
+\bibitem[Beckmann(1952)]{beckmann:eco1952}
+Martin Beckmann.
+\newblock A continuous model of transportation.
+\newblock \emph{Econometrica}, 20\penalty0 (4), 1952.
+
+\bibitem[Benamou and Brenier(2000)]{benamou:nm2000}
+Jean-David Benamou and Yann Brenier.
+\newblock A computational fluid mechanics solution to the monge-kantorovich
+  mass transfer problem.
+\newblock \emph{Numerische Mathematik}, 84\penalty0 (3):\penalty0 375--393,
+  2000.
+
+\bibitem[Benamou et~al.(2014)Benamou, Froese, and
+  Oberman]{benamou2014numerical}
+Jean-David Benamou, Brittany~D Froese, and Adam~M Oberman.
+\newblock Numerical solution of the optimal transportation problem using the
+  monge--amp{\`e}re equation.
+\newblock \emph{Journal of Computational Physics}, 260:\penalty0 107--126,
+  2014.
+
+\bibitem[Bentley(1975)]{bentley:acm1975}
+Jon~Louis Bentley.
+\newblock Multidimensional binary search trees used for associative searching.
+\newblock \emph{Communications of the ACM}, 18\penalty0 (9):\penalty0 509--517,
+  1975.
+
+\bibitem[Bertsekas and Tseng(1988)]{bertsekas:or1988}
+Dimitri~P Bertsekas and Paul Tseng.
+\newblock Relaxation methods for minimum cost ordinary and generalized network
+  flow problems.
+\newblock \emph{Operations Research}, pages 93--114, 1988.
+
+\bibitem[Beygelzimer et~al.(2006)Beygelzimer, Kakade, and
+  Langford]{beygelzimer:icml2006}
+Alina Beygelzimer, Sham Kakade, and John Langford.
+\newblock Cover trees for nearest neighbor.
+\newblock In \emph{Proceedings of the 23rd international conference on Machine
+  learning}, pages 97--104. ACM, 2006.
+
+\bibitem[Brenier(1991)]{brenier:cpam1991}
+Yann Brenier.
+\newblock Polar factorization and monotone rearrangement of vector-valued
+  functions.
+\newblock \emph{Communications on pure and applied mathematics}, 44\penalty0
+  (4):\penalty0 375--417, 1991.
+
+\bibitem[Carlier et~al.(2008)Carlier, Jimenez, and
+  Santambrogio]{carlier:jcc2008}
+Guillaume Carlier, Chlo{\'e} Jimenez, and Filippo Santambrogio.
+\newblock Optimal transportation with traffic congestion and wardrop
+  equilibria.
+\newblock \emph{SIAM Journal on Control and Optimization}, 47\penalty0
+  (3):\penalty0 1330--1350, 2008.
+
+\bibitem[Chen et~al.(2012)Chen, Iwen, Chin, and Maggioni]{6410789}
+Guangliang Chen, M.~Iwen, Sang Chin, and M.~Maggioni.
+\newblock A fast multiscale framework for data in high-dimensions: Measure
+  estimation, anomaly detection, and compressive measurements.
+\newblock In \emph{Visual Communications and Image Processing (VCIP), 2012
+  IEEE}, pages 1--6, 2012.
+\newblock \doi{10.1109/VCIP.2012.6410789}.
+
+\bibitem[Cullen(2006)]{cullen:book2006}
+Michael~JP Cullen.
+\newblock \emph{A mathematical theory of large-scale atmosphere/ocean flow}.
+\newblock World Scientific, 2006.
+
+\bibitem[Cunningham(1976)]{cunningham:mp1976}
+W.H. Cunningham.
+\newblock A network simplex method.
+\newblock \emph{Mathematical Programming}, 11\penalty0 (1):\penalty0 105--116,
+  1976.
+
+\bibitem[Cuturi(2013)]{cuturi:nips2013}
+Marco Cuturi.
+\newblock Sinkhorn distances: Lightspeed computation of optimal transportation.
+\newblock \emph{Advances in Neural Information Processing Systems}, pages
+  2292--2300, 2013.
+
+\bibitem[Cuturi and Avis(2014)]{cuturi:jmlr2014}
+Marco Cuturi and David Avis.
+\newblock Ground metric learning.
+\newblock \emph{Journal of Machine Learning Research}, 15\penalty0
+  (February):\penalty0 533--564, 2014.
+
+\bibitem[Cuturi and Doucet(2013)]{cuturi:arxiv2013}
+Marco Cuturi and Arnaud Doucet.
+\newblock Fast computation of wasserstein barycenters.
+\newblock \emph{arXiv preprint arXiv:1310.4375}, 2013.
+
+\bibitem[Dantzig and Wolfe(1960)]{dantzig:informs1960}
+George~B Dantzig and Philip Wolfe.
+\newblock Decomposition principle for linear programs.
+\newblock \emph{Operations research}, 8\penalty0 (1):\penalty0 101--111, 1960.
+
+\bibitem[Desaulniers et~al.(2002)Desaulniers, Desrosiers, and
+  Solomon]{desaulniers:book2002}
+Guy Desaulniers, Jacques Desrosiers, and Marius~M Solomon.
+\newblock \emph{Accelerating strategies in column generation methods for
+  vehicle routing and crew scheduling problems}.
+\newblock Springer, 2002.
+
+\bibitem[Desrosiers and L{\"u}bbecke(2005)]{desrosiers:book2005}
+Jacques Desrosiers and Marco~E L{\"u}bbecke.
+\newblock \emph{A primer in column generation}.
+\newblock Springer, 2005.
+
+\bibitem[Finkel and Bentley(1974)]{finkel:ai197}
+Raphael~A. Finkel and Jon~Louis Bentley.
+\newblock Quad trees a data structure for retrieval on composite keys.
+\newblock \emph{Acta informatica}, 4\penalty0 (1):\penalty0 1--9, 1974.
+
+\bibitem[Ford and Fulkerson(1956)]{ford:ms1956}
+Lester~Randolph Ford and DR~Fulkerson.
+\newblock Solving the transportation problem.
+\newblock \emph{Management Science}, 3\penalty0 (1):\penalty0 24--32, 1956.
+
+\bibitem[Gerber et~al.(2010)Gerber, Tasdizen, Fletcher, Joshi, and
+  Whitaker]{gerber:media10}
+Samuel Gerber, Tolga Tasdizen, P.~Thomas Fletcher, Sarang Joshi, and Ross
+  Whitaker.
+\newblock Manifold modeling for brain population analysis.
+\newblock \emph{Medical Image Analysis}, 14\penalty0 (5):\penalty0 643 -- 653,
+  2010.
+
+\bibitem[{Glimm} and {Henscheid}(2011)]{glimm:arxiv2011}
+T.~{Glimm} and N.~{Henscheid}.
+\newblock {Iterative scheme for solving optimal transportation problems arising
+  in reflector design}.
+\newblock \emph{ArXiv e-prints}, October 2011.
+
+\bibitem[Goldberg and Tarjan(1987)]{goldberg:stoc1987}
+A.~Goldberg and R.~Tarjan.
+\newblock Solving minimum-cost flow problems by successive approximation.
+\newblock In \emph{Proceedings of the nineteenth annual ACM symposium on Theory
+  of computing}, STOC '87, pages 7--18, New York, NY, USA, 1987. ACM.
+
+\bibitem[Guennebaud et~al.(2010)Guennebaud, Jacob, et~al.]{eigen}
+Ga\"{e}l Guennebaud, Beno\^{i}t Jacob, et~al.
+\newblock Eigen v3.
+\newblock http://eigen.tuxfamily.org, 2010.
+
+\bibitem[Haker et~al.(2004)Haker, Zhu, Tannenbaum, and
+  Angenent]{haker:ijcv2004}
+Steven Haker, Lei Zhu, Allen Tannenbaum, and Sigurd Angenent.
+\newblock Optimal mass transport for registration and warping.
+\newblock \emph{International Journal of Computer Vision}, 60\penalty0
+  (3):\penalty0 225--240, 2004.
+
+\bibitem[HHMI et~al.()HHMI, NRG, and BIRN]{oasis-brains}
+HHMI, NRG, and BIRN.
+\newblock Open access series of imaging studies.
+\newblock \url{http://www.oasis-brains.org}.
+
+\bibitem[Huang and Guibas(2013)]{bigdata8}
+Qixing Huang and Leonidas Guibas.
+\newblock Consistent shape maps via semidefinite programming.
+\newblock volume~32, 2013.
+
+\bibitem[IBM(2013)]{cplex}
+IBM.
+\newblock Ilog cplex.
+\newblock http://www.ilog.com/products/cplex/, 2013.
+
+\bibitem[Indyk and Thaper(2003)]{indyk2003fast}
+P.~Indyk and N.~Thaper.
+\newblock Fast image retrieval via embeddings.
+\newblock \emph{3rd International Workshop on Statistical and Computational
+  Theories of Vision}, 2003.
+
+\bibitem[Iollo and Lombardi(2011)]{iollo:jcp2011}
+Angelo Iollo and Damiano Lombardi.
+\newblock A lagrangian scheme for the solution of the optimal mass transfer
+  problem.
+\newblock \emph{Journal of Computational Physics}, 230\penalty0 (9):\penalty0
+  3430 -- 3442, 2011.
+
+\bibitem[Iwen and Maggioni(2013)]{IM:GMRA_CS}
+Mark~A. Iwen and Mauro Maggioni.
+\newblock Approximation of points on low-dimensional manifolds via random
+  linear projections.
+\newblock \emph{Inference \& Information}, 2\penalty0 (1):\penalty0 1--31,
+  2013.
+\newblock arXiv:1204.3337v1, 2012.
+
+\bibitem[Jackins and Tanimoto(1980)]{jackins:cgip1980}
+Chris~L Jackins and Steven~L Tanimoto.
+\newblock Oct-trees and their use in representing three-dimensional objects.
+\newblock \emph{Computer Graphics and Image Processing}, 14\penalty0
+  (3):\penalty0 249--270, 1980.
+
+\bibitem[Kantorovitch(1958)]{kantorovitch:ms1958}
+Lo~Kantorovitch.
+\newblock On the translocation of masses.
+\newblock \emph{Management Science}, 5\penalty0 (1):\penalty0 1--4, 1958.
+
+\bibitem[Klein(1967)]{klein:ms1967}
+Morton Klein.
+\newblock A primal method for minimal cost flows with applications to the
+  assignment and transportation problems.
+\newblock \emph{Management Science}, 14\penalty0 (3):\penalty0 205--220, 1967.
+
+\bibitem[Krauthgamer and Lee(2004)]{krauthgamer:soda2004}
+Robert Krauthgamer and James~R Lee.
+\newblock Navigating nets: simple algorithms for proximity search.
+\newblock In \emph{Proceedings of the fifteenth annual ACM-SIAM symposium on
+  Discrete algorithms}, pages 798--807. Society for Industrial and Applied
+  Mathematics, 2004.
+
+\bibitem[Kuhn(1955)]{kuhn:nrlq1955}
+Harold~W Kuhn.
+\newblock The hungarian method for the assignment problem.
+\newblock \emph{Naval research logistics quarterly}, 2\penalty0 (1-2):\penalty0
+  83--97, 1955.
+
+\bibitem[Liao and Maggioni(2016)]{LiaoMaggioni}
+W.~Liao and M.~Maggioni.
+\newblock Robust, adaptive geometric multi-resolution analysis for data in
+  high-dimensions.
+\newblock 2016.
+\newblock in preparation.
+
+\bibitem[Little et~al.(2012)Little, Maggioni, and Rosasco]{LMR:MGM1}
+Anna~V. Little, Mauro Maggioni, and Lorenzo Rosasco.
+\newblock Multiscale geometric methods for data sets {I}: Multiscale {SVD},
+  noise and curvature.
+\newblock Technical report, MIT-CSAIL-TR-2012-029/CBCL-310, MIT, Cambridge, MA,
+  September 2012.
+\newblock URL \url{http://dspace.mit.edu/handle/1721.1/72597}.
+
+\bibitem[M.~Ovsjanikov and Guibas(2010)]{bigdata5}
+F.~M\'emoli M.~Ovsjanikov, Q.~Mérigot and L.~Guibas.
+\newblock One point isometric matching with the heat kernel.
+\newblock 2010.
+
+\bibitem[Maggioni et~al.(2016)Maggioni, Minsker, and
+  Strawn]{MMS:NoisyDictionaryLearning}
+Mauro Maggioni, Stanislav Minsker, and Nate Strawn.
+\newblock Multiscale dictionary learning: Non-asymptotic bounds and robustness.
+\newblock \emph{J. Mach. Learn. Res.}, 17\penalty0 (1):\penalty0 43--93,
+  January 2016.
+\newblock ISSN 1532-4435.
+\newblock URL \url{http://dl.acm.org/citation.cfm?id=2946645.2946647}.
+
+\bibitem[Makhorin(2013)]{glpk}
+Andrew Makhorin.
+\newblock {GLPK} ({GNU} linear programming kit).
+\newblock http://www.gnu.org/software/glpk, 2013.
+
+\bibitem[M{\'e}rigot(2011)]{merigot:cgf2011}
+Quentin M{\'e}rigot.
+\newblock A multiscale approach to optimal transport.
+\newblock In \emph{Computer Graphics Forum}, volume~30, pages 1583--1592. Wiley
+  Online Library, 2011.
+
+\bibitem[Miller et~al.(2002)Miller, Trouv{\'e}, and Younes]{miller2002metrics}
+Michael~I Miller, Alain Trouv{\'e}, and Laurent Younes.
+\newblock On the metrics and euler-lagrange equations of computational anatomy.
+\newblock \emph{Annual review of biomedical engineering}, 4\penalty0
+  (1):\penalty0 375--405, 2002.
+
+\bibitem[Monge(1781)]{monge:book1781}
+Gaspard Monge.
+\newblock \emph{M{\'e}moire sur la th{\'e}orie des d{\'e}blais et des
+  remblais}.
+\newblock De l'Imprimerie Royale, 1781.
+
+\bibitem[Oberman and Ruan(2015)]{oberman2015efficient}
+Adam~M Oberman and Yuanlong Ruan.
+\newblock An efficient linear programming method for optimal transportation.
+\newblock \emph{arXiv preprint arXiv:1509.03668}, 2015.
+
+\bibitem[Orlin(1997)]{orlin:mp1997}
+James~B Orlin.
+\newblock A polynomial time primal network simplex algorithm for minimum cost
+  flows.
+\newblock \emph{Mathematical Programming}, 78\penalty0 (2):\penalty0 109--129,
+  1997.
+
+\bibitem[{Papadakis} et~al.(2013){Papadakis}, {Peyr{\'e}}, and
+  {Oudet}]{papadakis:arxiv2013}
+N.~{Papadakis}, G.~{Peyr{\'e}}, and E.~{Oudet}.
+\newblock {Optimal Transport with Proximal Splitting}.
+\newblock \emph{ArXiv e-prints}, april 2013.
+
+\bibitem[Qixing~Huang(2014)]{bigdata10}
+Leonidas~Guibas Qixing~Huang, Fan~Wang.
+\newblock Functional map networks for analyzing and exploring large shape
+  collections.
+\newblock \emph{ACM Transactions on Graphics (TOG)}, 33\penalty0 (4), 2014.
+
+\bibitem[Rubner et~al.(1998)Rubner, Tomasi, and Guibas]{rubner:iccv1998}
+Yossi Rubner, Carlo Tomasi, and Leonidas~J Guibas.
+\newblock A metric for distributions with applications to image databases.
+\newblock In \emph{Computer Vision, 1998. Sixth International Conference on},
+  pages 59--66. IEEE, 1998.
+
+\bibitem[Schmitzer(2015)]{schmitzer2015sparse}
+Bernhard Schmitzer.
+\newblock A sparse multi-scale algorithm for dense optimal transport.
+\newblock \emph{arXiv preprint arXiv:1510.05466}, 2015.
+
+\bibitem[Schmitzer and Schn{\"o}rr(2013)]{schmitzer2013hierarchical}
+Bernhard Schmitzer and Christoph Schn{\"o}rr.
+\newblock A hierarchical approach to optimal transport.
+\newblock In \emph{International Conference on Scale Space and Variational
+  Methods in Computer Vision}, pages 452--464. Springer, 2013.
+
+\bibitem[Shirdhonkar and Jacobs(2008)]{shirdhonkar:cvpr2008}
+S.~Shirdhonkar and D.W. Jacobs.
+\newblock Approximate earth mover's distance in linear time.
+\newblock In \emph{Computer Vision and Pattern Recognition, 2008. CVPR 2008.
+  IEEE Conference on}, pages 1--8, 2008.
+
+\bibitem[Talairach and Tournoux(1988)]{talaraich:book88}
+J.~Talairach and P.~Tournoux.
+\newblock \emph{Co-planar stereotaxic atlas of the human brain. 3-Dimensional
+  proportional system: an approach to cerebral imaging}.
+\newblock Thieme, New York, 1988.
+
+\bibitem[Tarjan(1997)]{Tarjan1997}
+Robert~E. Tarjan.
+\newblock Dynamic trees as search trees via euler tours, applied to the network
+  simplex algorithm.
+\newblock \emph{Mathematical Programming}, 78\penalty0 (2):\penalty0 169--177,
+  1997.
+\newblock ISSN 1436-4646.
+\newblock \doi{10.1007/BF02614369}.
+\newblock URL \url{http://dx.doi.org/10.1007/BF02614369}.
+
+\bibitem[Villani(2009)]{villani:book2009}
+C{\'e}dric Villani.
+\newblock \emph{Optimal transport: old and new}, volume 338.
+\newblock Springer, 2009.
+
+\bibitem[Ward~Jr(1963)]{ward:jasa1963}
+Joe~H Ward~Jr.
+\newblock Hierarchical grouping to optimize an objective function.
+\newblock \emph{Journal of the American statistical association}, 58\penalty0
+  (301):\penalty0 236--244, 1963.
+
+\end{thebibliography}
