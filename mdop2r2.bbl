@@ -12,16 +12,11 @@ Ravindra~K. Ahuja, Thomas~L. Magnanti, and James~B. Orlin.
 \newblock ISBN 0-13-617549-X.
 
 \bibitem[Allard et~al.(2012)Allard, Chen, and Maggioni]{CM:MGM2}
-William~K. Allard, Guangliang Chen, and Mauro Maggioni.
-\newblock Multi-scale geometric methods for data sets {II}: Geometric
+William~K Allard, Guangliang Chen, and Mauro Maggioni.
+\newblock Multi-scale geometric methods for data sets ii: Geometric
   multi-resolution analysis.
 \newblock \emph{Applied and Computational Harmonic Analysis}, 32\penalty0
   (3):\penalty0 435--462, 2012.
-\newblock ISSN 1063-5203.
-\newblock \doi{10.1016/j.acha.2011.08.001}.
-\newblock URL
-  \url{http://www.sciencedirect.com/science/article/pii/S1063520311000868}.
-\newblock (submitted:5/2011).
 
 \bibitem[Andersen and Andersen(2013)]{mosek}
 Erling~D. Andersen and Knud~D. Andersen.
@@ -139,10 +134,11 @@ Marco Cuturi and David Avis.
 \newblock \emph{Journal of Machine Learning Research}, 15\penalty0
   (February):\penalty0 533--564, 2014.
 
-\bibitem[Cuturi and Doucet(2013)]{cuturi:arxiv2013}
+\bibitem[Cuturi and Doucet(2014)]{cuturi:arxiv2013}
 Marco Cuturi and Arnaud Doucet.
 \newblock Fast computation of wasserstein barycenters.
-\newblock \emph{arXiv preprint arXiv:1310.4375}, 2013.
+\newblock \emph{International Conference on Machine Learning}, pages 685--693,
+  2014.
 
 \bibitem[Dantzig and Wolfe(1960)]{dantzig:informs1960}
 George~B Dantzig and Philip Wolfe.
@@ -179,11 +175,11 @@ Samuel Gerber, Tolga Tasdizen, P.~Thomas Fletcher, Sarang Joshi, and Ross
 \newblock \emph{Medical Image Analysis}, 14\penalty0 (5):\penalty0 643 -- 653,
   2010.
 
-\bibitem[{Glimm} and {Henscheid}(2011)]{glimm:arxiv2011}
-T.~{Glimm} and N.~{Henscheid}.
-\newblock {Iterative scheme for solving optimal transportation problems arising
-  in reflector design}.
-\newblock \emph{ArXiv e-prints}, October 2011.
+\bibitem[Glimm and Henscheid(2013)]{glimm:arxiv2011}
+Tilmann Glimm and Nick Henscheid.
+\newblock Iterative scheme for solving optimal transportation problems arising
+  in reflector design.
+\newblock \emph{ISRN Applied Mathematics}, 2013, 2013.
 
 \bibitem[Goldberg and Tarjan(1987)]{goldberg:stoc1987}
 A.~Goldberg and R.~Tarjan.
@@ -211,7 +207,7 @@ HHMI, NRG, and BIRN.
 \bibitem[Huang and Guibas(2013)]{bigdata8}
 Qixing Huang and Leonidas Guibas.
 \newblock Consistent shape maps via semidefinite programming.
-\newblock volume~32, 2013.
+\newblock In \emph{Computer Graphics Forum}, volume~32, 2013.
 
 \bibitem[IBM(2013)]{cplex}
 IBM.
@@ -270,11 +266,10 @@ Harold~W Kuhn.
   83--97, 1955.
 
 \bibitem[Liao and Maggioni(2016)]{LiaoMaggioni}
-W.~Liao and M.~Maggioni.
-\newblock Robust, adaptive geometric multi-resolution analysis for data in
-  high-dimensions.
-\newblock 2016.
-\newblock in preparation.
+Wenjing Liao and Mauro Maggioni.
+\newblock Adaptive geometric multiscale approximations for intrinsically
+  low-dimensional data.
+\newblock \emph{arXiv preprint arXiv:1611.01179}, 2016.
 
 \bibitem[Little et~al.(2012)Little, Maggioni, and Rosasco]{LMR:MGM1}
 Anna~V. Little, Mauro Maggioni, and Lorenzo Rosasco.
@@ -285,18 +280,18 @@ Anna~V. Little, Mauro Maggioni, and Lorenzo Rosasco.
 \newblock URL \url{http://dspace.mit.edu/handle/1721.1/72597}.
 
 \bibitem[M.~Ovsjanikov and Guibas(2010)]{bigdata5}
-F.~M\'emoli M.~Ovsjanikov, Q.~Mérigot and L.~Guibas.
+F.~Memoli M.~Ovsjanikov, Q.~Merigot and L.~Guibas.
 \newblock One point isometric matching with the heat kernel.
-\newblock 2010.
+\newblock \emph{Proc. Eurographics Symposium on Geometry Processing (SGP)},
+  2010.
 
 \bibitem[Maggioni et~al.(2016)Maggioni, Minsker, and
   Strawn]{MMS:NoisyDictionaryLearning}
 Mauro Maggioni, Stanislav Minsker, and Nate Strawn.
 \newblock Multiscale dictionary learning: Non-asymptotic bounds and robustness.
-\newblock \emph{J. Mach. Learn. Res.}, 17\penalty0 (1):\penalty0 43--93,
-  January 2016.
+\newblock \emph{Journal of Machine Learning Research}, 17\penalty0
+  (1):\penalty0 43--93, January 2016.
 \newblock ISSN 1532-4435.
-\newblock URL \url{http://dl.acm.org/citation.cfm?id=2946645.2946647}.
 
 \bibitem[Makhorin(2013)]{glpk}
 Andrew Makhorin.
@@ -380,9 +375,6 @@ Robert~E. Tarjan.
   simplex algorithm.
 \newblock \emph{Mathematical Programming}, 78\penalty0 (2):\penalty0 169--177,
   1997.
-\newblock ISSN 1436-4646.
-\newblock \doi{10.1007/BF02614369}.
-\newblock URL \url{http://dx.doi.org/10.1007/BF02614369}.
 
 \bibitem[Villani(2009)]{villani:book2009}
 C{\'e}dric Villani.
