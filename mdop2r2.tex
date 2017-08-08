@@ -11,7 +11,7 @@
 %\usepackage{mathptmx}
 
 \usepackage{graphicx}
-\graphicspath{ {./figures/} }
+\graphicspath{{./figures/},{./poster/}}
 \DeclareGraphicsExtensions{.pdf,.jpeg,.png}
 
 \usepackage{grffile}
@@ -64,7 +64,7 @@
 
 % Heading arguments are {volume}{year}{pages}{submitted}{published}{author-full-names}
 
-\jmlrheading{?}{????}{?-?}{3/16}{--/--}{Samuel Gerber and Mauro Maggioni}
+\jmlrheading{18}{2017}{1-32}{3/16; Revised 6/17}{8/17}{16-108}{Samuel Gerber and Mauro Maggioni}
 
 % Short headings should be running head and authors last names
 
@@ -79,7 +79,7 @@
        \addr Department of $^2$\!Mathematics, $^3$\!Applied Mathematics, $^4$\!Institute for Data Intensive Engineering and Science, Johns Hopkins University, Baltimore, MD, U.S.A.
 }
 
-\editor{}
+\editor{Nikos Vlassis}
 %\author{Samuel Gerber \and Mauro Maggioni}
 
 
@@ -647,7 +647,7 @@ range of scales to keep the notation simple). The construction of the
 multiscale approximations is illustrated in Figure~\ref{fig:multiscalepic}.
 \begin{figure}[thb]
 \centering
-\includegraphics[width=0.99\linewidth]{MultiscalePic.pdf}
+\includegraphics[width=0.99\linewidth]{figures/MultiscalePic.pdf}
 \caption{
 \label{fig:multiscalepic}
 An illustration of the multiscale framework. The coarsening step constructs
@@ -1139,7 +1139,7 @@ different properties.
 
 The multiscale approach is implemented in C++ with an \textsf{R} front end in
 the package {\em mop}\footnote{available on
-\url{http://pages.uoregon.edu/~sgerber/software}}. For comparisons, we also
+\url{https://bitbucket.org/suppechasper/optimaltransport}}. For comparisons, we also
 implemented the Sinkhorn distance approach~\citep{cuturi:nips2013} in C++ with
 an \textsf{R} front end in the package {\em
 sinkhorn}\footnotemark[\value{footnote}].  Our C++ implementation uses the
